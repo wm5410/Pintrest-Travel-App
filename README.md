@@ -43,13 +43,13 @@ Based on project documents, potential enhancements could include:
 * Expanded filter options within the "Searchfeed".
 
 ## Screenshots
-- ![UI: Settings Screen](UI(settings).png)
-- ![UI: Itinerary Screen](UI(itineary).png)
-- ![UI: Search Screen](UI(search).png)
-- ![UI: Map Screen](UI(map).png)
-- ![Data Flow Diagram](DataFlow.png)
+- ![UI: Settings Screen](Screenshots/UI(settings).png)
+- ![UI: Itinerary Screen](Screenshots/UI(itineary).png)
+- ![UI: Search Screen](Screenshots/UI(search).png)
+- ![UI: Map Screen](Screenshots/UI(map).png)
+- ![Data Flow Diagram](Screenshots/DataFlow.png)
 
 ## Videos
-- ![Filters Animation](filters.gif)
-- ![Feed Animation](feed.gif)
-- ![Search Animation](search.gif)
+- ![Filters Animation](Screenshots/filters.gif)
+- ![Feed Animation](Screenshots/feed.gif)
+- ![Search Animation](Screenshots/search.gif)
