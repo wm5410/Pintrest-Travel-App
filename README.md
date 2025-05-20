@@ -41,3 +41,15 @@ Based on project documents, potential enhancements could include:
 * Autocomplete functionality in search bars.
 * An adaptive algorithm for more personalized recommendations.
 * Expanded filter options within the "Searchfeed".
+
+## Screenshots
+- ![UI: Settings Screen](UI(settings).png)
+- ![UI: Itinerary Screen](UI(itineary).png)
+- ![UI: Search Screen](UI(search).png)
+- ![UI: Map Screen](UI(map).png)
+- ![Data Flow Diagram](DataFlow.png)
+
+## Videos
+- ![Filters Animation](filters.gif)
+- ![Feed Animation](feed.gif)
+- ![Search Animation](search.gif)
