@@ -67,7 +67,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class SearchFeedFragment extends Fragment /**implements AbsListView.OnItemClickListener*/ {
 
-    private static final String API_KEY = "AIzaSyAmeofIZbv8pgpxghqjKb_WOw_M6KSZ9So";
+    private static final String API_KEY = "PLACEHOLDER";
     private static final String TAG = "SearchFeedFragment";
     private static final String DEFAULT_TYPE = "";
     private static final String DEFAULT_KEYWORD = "";
