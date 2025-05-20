@@ -44,30 +44,30 @@ Based on project documents, potential enhancements could include:
 
 ## Screenshots
 Settings User Interface
-- ![UI: Settings Screen](Screenshots/UI(settings).png)
+![UI: Settings Screen](Screenshots/UI(settings).png)
 
 
-- Itinerary User Interface
-- ![UI: Itinerary Screen](Screenshots/UI(itineary).png)
+Itinerary User Interface
+![UI: Itinerary Screen](Screenshots/UI(itineary).png)
 
 
-- Search User Interface
-- ![UI: Search Screen](Screenshots/UI(search).png)
+Search User Interface
+![UI: Search Screen](Screenshots/UI(search).png)
 
 
-- Map User Interface
-- ![UI: Map Screen](Screenshots/UI(map).png)
+Map User Interface
+![UI: Map Screen](Screenshots/UI(map).png)
 
 
-- Data Flow Diagram
-- ![Data Flow Diagram](Screenshots/DataFlow.png)
+Data Flow Diagram
+![Data Flow Diagram](Screenshots/DataFlow.png)
 
 ## Videos
 Selecting filters
-- ![Filters Animation](Screenshots/filters.gif)
+![Filters Animation](Screenshots/filters.gif)
 
 Searching the feed
-- ![Feed Animation](Screenshots/feed.gif)
+![Feed Animation](Screenshots/feed.gif)
 
 Searching the feed
-- ![Search Animation](Screenshots/search.gif)
+![Search Animation](Screenshots/search.gif)
